@@ -1,1 +1,4 @@
-Idk
+# Bootable
+
+Bootable includes the source code of the bootloader, disk installer, and recovery. This
+is very important for the source.
