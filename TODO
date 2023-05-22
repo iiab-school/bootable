@@ -1,5 +1,5 @@
 TODO
 
-1. bootloader
-2. recovery
-3. makefiles
+1. make bootloader, recovery dirs
+2. makefiles creation !IMPORTANT!
+3. finish diskinstaller dir
